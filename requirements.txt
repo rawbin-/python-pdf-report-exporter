@@ -1,0 +1,2 @@
+pdfkit==1.0.0
+pyhtml2pdf==0.0.3
